@@ -21,6 +21,7 @@ The structure of the data is showed as follow:
 ```python
   vector:
   starttime:
+  Degree_distribution:
   graph:{
   	directed: False
   	multigraph: False
