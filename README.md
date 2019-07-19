@@ -51,6 +51,7 @@ Before running the program, you had better check out the environment of your com
 ## Reference
 
 The source of Dataset: http://www.sociopatterns.org/datasets/high-school-dynamic-contact-networks/
+
 The principle of algorithm: http://www.cad.zju.edu.cn/home/vagblog/old/
 
 ## Programmer
