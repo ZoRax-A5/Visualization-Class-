@@ -44,7 +44,7 @@ The structure of the data is showed as follow:
 
 Before running the program, you had better check out the environment of your computer.
 
-- [Node.js]("https://nodejs.org/zh-cn/")
+- [Node.js](https://nodejs.org/zh-cn/)
 - [npm](https://www.jianshu.com/p/f311a3a155ff)
 - d3
 
