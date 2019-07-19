@@ -55,6 +55,8 @@ The principle of algorithm: http://www.cad.zju.edu.cn/home/vagblog/old/
 
 ## Programmer
 
-**Leader: Long Qian
-Member: Lechen Yang
-Member: Weixu Zong**
+**Leader: Long Qian**
+
+**Member: Lechen Yang**
+
+**Member: Weixu Zong**
